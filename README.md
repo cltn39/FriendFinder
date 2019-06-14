@@ -12,6 +12,7 @@ a compatibility-based "FriendFinder" application -- basically a dating app.
 - [x] 10 Questions to determine compatibility.
 - [ ] Modern looking interface!.
 - [ ] Highly reusable codes.
+- [ ] Orm/Mvc structured
 
 ## Node packages used:
 
