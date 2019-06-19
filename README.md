@@ -28,4 +28,4 @@ a compatibility-based "FriendFinder" application -- basically a dating app.
 4. Fill out the survey. Your survey should have 10 questions of your choosing. Each answer should be on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
 
 ## Demo:
-TO BE ADDED..
+https://polar-sands-56531.herokuapp.com/
